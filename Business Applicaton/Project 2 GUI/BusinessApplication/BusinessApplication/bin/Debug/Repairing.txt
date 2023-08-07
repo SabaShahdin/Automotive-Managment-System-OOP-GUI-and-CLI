@@ -1,0 +1,2 @@
+inputShaft,2000,4
+wrench,8900,2

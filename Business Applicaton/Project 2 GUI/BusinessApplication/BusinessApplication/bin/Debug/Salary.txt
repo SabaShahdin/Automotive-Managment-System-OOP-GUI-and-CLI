@@ -1,0 +1,2 @@
+Ahmad@334,5,12000,Employee
+Ali@112,10,16000,Manager

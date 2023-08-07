@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6542DAE-1A70-4813-B489-F1649BF03831}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BusinessApplication</RootNamespace>
+    <AssemblyName>BusinessApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\Admin.cs" />
+    <Compile Include="BL\Employee.cs" />
+    <Compile Include="BL\Manager.cs" />
+    <Compile Include="BL\Money.cs" />
+    <Compile Include="BL\MoneyRepair.cs" />
+    <Compile Include="BL\MoneySell.cs" />
+    <Compile Include="BL\Person.cs" />
+    <Compile Include="BL\Product.cs" />
+    <Compile Include="BL\Repairing.cs" />
+    <Compile Include="BL\Selling.cs" />
+    <Compile Include="BL\Staff.cs" />
+    <Compile Include="DL\EmployeeDL.cs" />
+    <Compile Include="DL\ManagerDL.cs" />
+    <Compile Include="DL\MoneyRepairDL.cs" />
+    <Compile Include="DL\MoneySellDL.cs" />
+    <Compile Include="DL\PersonDL.cs" />
+    <Compile Include="DL\RepairingDL.cs" />
+    <Compile Include="DL\SellingDL.cs" />
+    <Compile Include="DL\StaffDL.cs" />
+    <Compile Include="EmployeeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeUI.Designer.cs">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminInterface.Designer.cs">
+      <DependentUpon>AdminInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeInterface.Designer.cs">
+      <DependentUpon>EmployeeInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeMoney.Designer.cs">
+      <DependentUpon>EmployeeMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeView.Designer.cs">
+      <DependentUpon>EmployeeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ID.Designer.cs">
+      <DependentUpon>ID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainScreen.Designer.cs">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerInterface.Designer.cs">
+      <DependentUpon>ManagerInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerMoney.Designer.cs">
+      <DependentUpon>ManagerMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerUI.Designer.cs">
+      <DependentUpon>ManagerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerView.Designer.cs">
+      <DependentUpon>ManagerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RepairingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RepairingUI.Designer.cs">
+      <DependentUpon>RepairingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Role.Designer.cs">
+      <DependentUpon>Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Salarymanager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Salarymanager.Designer.cs">
+      <DependentUpon>Salarymanager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryUI.Designer.cs">
+      <DependentUpon>SalaryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SellingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SellingUI.Designer.cs">
+      <DependentUpon>SellingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ViewUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ViewUI.Designer.cs">
+      <DependentUpon>ViewUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EmployeeUI.resx">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminInterface.resx">
+      <DependentUpon>AdminInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeInterface.resx">
+      <DependentUpon>EmployeeInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeMoney.resx">
+      <DependentUpon>EmployeeMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeView.resx">
+      <DependentUpon>EmployeeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ID.resx">
+      <DependentUpon>ID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainScreen.resx">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerInterface.resx">
+      <DependentUpon>ManagerInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerMoney.resx">
+      <DependentUpon>ManagerMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerUI.resx">
+      <DependentUpon>ManagerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerView.resx">
+      <DependentUpon>ManagerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RepairingUI.resx">
+      <DependentUpon>RepairingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Role.resx">
+      <DependentUpon>Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Salarymanager.resx">
+      <DependentUpon>Salarymanager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryUI.resx">
+      <DependentUpon>SalaryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SellingUI.resx">
+      <DependentUpon>SellingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ViewUI.resx">
+      <DependentUpon>ViewUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Ios7-Arrows-Back.512.png" />
+    <None Include="Resources\OIP.jpg" />
+    <None Include="Resources\pure-css-menu-icon-close 1.jpg" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\R %281%29.png" />
+    <None Include="Resources\875bab51-cf85-4035-a91c-36128cdf45f4.png" />
+    <None Include="Resources\_848493dc-0d00-4d7a-92b7-571db13fde4d.jpg" />
+    <None Include="Resources\_116bd3e3-b45c-4abd-8c06-49bcd2f9eaba.jpg" />
+    <None Include="Resources\_1303513f-8ec1-48a6-a93a-0d6e4cd8bb1b.jpg" />
+    <None Include="Resources\_04875218-c2f5-4e5a-8d5d-f058b29e0c45.jpg" />
+    <None Include="Resources\R.png" />
+    <None Include="Resources\Icons8-Ios7-Arrows-Back.5121.png" />
+    <None Include="Resources\pure-css-menu-icon-close.jpg" />
+    <None Include="Resources\slight-increase-new-vehicle-sales_istock-620x372.jpg" />
+    <None Include="Resources\3ab0c65feade5b2f3dbee08838403353.jpg" />
+    <None Include="Resources\Slide40.png" />
+    <Content Include="WhatsApp Image 2023-06-22 at 5.43.42 PM.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

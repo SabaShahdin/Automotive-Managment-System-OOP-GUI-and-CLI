@@ -1,0 +1,85 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.MainScreen.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Role.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SignIn.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ID.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.AdminInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SellingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.RepairingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.EmployeeUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ViewUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Salarymanager.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SalaryUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Exit.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.EmployeeUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.AdminInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Exit.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ID.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.MainScreen.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.RepairingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Role.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Salarymanager.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SalaryUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SellingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SignIn.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ViewUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.EmployeeUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.AdminInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.EmployeeView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Exit.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ID.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.MainScreen.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerInterface.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerMoney.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ManagerView.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.RepairingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Role.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.Salarymanager.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SalaryUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SellingUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.SignIn.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.UI.ViewUI.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\Business Applicaton\Project 2 GUI\BusinessApplication\BusinessApplication\obj\Debug\BusinessApplication.csproj.SuggestedBindingRedirects.cache
